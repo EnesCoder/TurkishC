@@ -9,6 +9,4 @@ And then add a third argument while using the transpiler, which is your dictiona
 
 * ./transpile (path to your file to get transpiled) (the output .c file) (your dictionary path, OPTINAL) *
 
-This is a thing just which just got started so it has bugs for sure, and not many words in the dictionary. I don't think I will mess with this project again but if I do I will update stuff for good.
-
-Have fun sir
+This is just a side project, so I think you will just look at the code, which I would not recommend. So nothing important.
