@@ -1,0 +1,11 @@
+#icer <stdio.h>
+
+#tanimla SEN "işeyaramaz"
+
+tam ana(tam argsayi, kar *arglar[])
+{
+  sabit kar* bazi_sey = arglar[0];
+  yazbicim("%s", bazi_sey);
+
+  geriver 0;
+}

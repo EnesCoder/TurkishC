@@ -1,0 +1,33 @@
+{
+  "incluir": "include",
+  "mientras": "while",
+  "hacer": "do",
+  "para": "for",
+  "devolver": "return",
+  "si": "if",
+  "demas": "else",
+  "tipdef": "typedef",
+  "definir": "define",
+  "sinodef": "ifndef",
+  "sidef": "ifdef",
+
+  "vacio": "void",
+  "ent": "int",
+  "nofir": "unsigned",
+  "racio": "float",
+  "doble": "double",
+  "cadena": "char*",
+  "car": "char",
+  "ttam": "t_size",
+  "ntam": "u_int",
+  "largo": "long",
+  "corto": "short",
+
+  "mayor": "main",
+  "imprimf": "printf",
+  "salida": "exit",
+  "masign": "malloc",
+  "gasign": "calloc",
+  "reasign": "realloc",
+  "gratis": "free"
+}

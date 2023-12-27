@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall CMakeFiles/transpileTc.dir/main.cpp.o -o transpileTc  /usr/lib/libjsoncpp.so 

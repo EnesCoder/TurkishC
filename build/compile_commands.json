@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/erch/Desktop/CPlusCPlusPlus/TurkishC/build",
+  "command": "/usr/bin/g++  -Wall -g -o CMakeFiles/transpile.dir/main.cpp.o -c /home/erch/Desktop/CPlusCPlusPlus/TurkishC/main.cpp",
+  "file": "/home/erch/Desktop/CPlusCPlusPlus/TurkishC/main.cpp",
+  "output": "CMakeFiles/transpile.dir/main.cpp.o"
+}
+]

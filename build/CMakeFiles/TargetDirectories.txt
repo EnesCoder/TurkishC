@@ -1,0 +1,3 @@
+/home/erch/Desktop/CPlusCPlusPlus/TurkishC/build/CMakeFiles/transpile.dir
+/home/erch/Desktop/CPlusCPlusPlus/TurkishC/build/CMakeFiles/edit_cache.dir
+/home/erch/Desktop/CPlusCPlusPlus/TurkishC/build/CMakeFiles/rebuild_cache.dir
